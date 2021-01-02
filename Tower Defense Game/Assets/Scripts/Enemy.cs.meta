@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 63bda86b64da8064dab5e8a5b2b0e5be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exitPoint: {fileID: 6500817556709754722, guid: 684fe445886283b4b83cc2d56c793fb4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
